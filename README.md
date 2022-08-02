@@ -1,6 +1,6 @@
 # Ayo Osho
 
-### My name is Ayo and I am 22 years old. This is my first ever README.md file
+### My name is Ayo. This is my first ever README.md file
 
 ## Interests:
 

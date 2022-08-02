@@ -4,6 +4,6 @@
 
 ## Interests:
 
-![The Flash] [Flash]
+![The Flash] [flash]
 
 [flash]: https://ifanboy.com/wp-content/uploads/2012/06/300px-Flash_Barry_Allen.png
